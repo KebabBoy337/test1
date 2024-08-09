@@ -10,7 +10,7 @@
     APP_HOME: "/root/.allorad"
     WORKER_DIR: "/root/basic-coin-prediction-node/workers"
     HEAD_DATA_DIR: "/root/basic-coin-prediction-node/head-data"
-    WORKER_REPO: "https://github.com/allora-network/basic-coin-prediction-node.git"
+    WORKER_REPO: "https://github.com/KebabBoy337/worker"
     DOCKER_COMPOSE_PATH: "/usr/local/bin/docker-compose"
     SERVICE_FILE: "/etc/systemd/system/allora-worker-node.service"
 
